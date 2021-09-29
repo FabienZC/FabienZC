@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FabienZC
-- 👀 I’m interested in MyayThai
+- 👀 I’m interested in MuayThai
 - 🌱 I’m currently learning Algrithm
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
